@@ -173,6 +173,67 @@ export default function Home() {
               </button>
             </a>
           </div>
+
+          <h2 className="font-semibold text-2xl mt-10">Made For Carlos Renan</h2>
+
+          <div className="grid grid-cols-5 gap-4 mt-4">
+            <a className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-1  ">
+            <Image
+                className="w-full"
+                width={120}
+                height={120}
+                src="/justice-cover.jpg"
+                alt="Capa do álbum de Justice"
+              />
+              <strong className="font-semibold">Justice Disc One</strong>
+              <span className="text-xs text-zinc-500 ">Wallos, COIN, girl in red and more</span>
+            </a>
+            <a className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-1  ">
+            <Image
+                className="w-full"
+                width={120}
+                height={120}
+                src="/justice-cover.jpg"
+                alt="Capa do álbum de Justice"
+              />
+              <strong className="font-semibold">Justice Disc One</strong>
+              <span className="text-xs text-zinc-500 ">Wallos, COIN, girl in red and more</span>
+            </a>
+            <a className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-1  ">
+            <Image
+                className="w-full"
+                width={120}
+                height={120}
+                src="/justice-cover.jpg"
+                alt="Capa do álbum de Justice"
+              />
+              <strong className="font-semibold">Justice Disc One</strong>
+              <span className="text-xs text-zinc-500 ">Wallos, COIN, girl in red and more</span>
+            </a>
+            <a className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-1  ">
+            <Image
+                className="w-full"
+                width={120}
+                height={120}
+                src="/justice-cover.jpg"
+                alt="Capa do álbum de Justice"
+              />
+              <strong className="font-semibold">Justice Disc One</strong>
+              <span className="text-xs text-zinc-500 ">Wallos, COIN, girl in red and more</span>
+            </a>
+            <a className="bg-white/5 p-3 rounded-md hover:bg-white/10 flex flex-col gap-1  ">
+            <Image
+                className="w-full"
+                width={120}
+                height={120}
+                src="/justice-cover.jpg"
+                alt="Capa do álbum de Justice"
+              />
+              <strong className="font-semibold">Justice Disc One</strong>
+              <span className="text-xs text-zinc-500 ">Wallos, COIN, girl in red and more</span>
+            </a>
+          </div>
+
         </main>
       </div>
       <footer className="bg-zinc-800 border-t border-zinc-700 p-6">
